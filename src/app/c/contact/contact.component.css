@@ -1,0 +1,13 @@
+#contacto {
+    text-align: center;
+}
+form {
+    max-width: 500px;
+    margin: auto;
+}
+input, textarea {
+    margin-bottom: 7px;
+}
+button {
+    font-family: 'Amita', 'Brush Script MT', cursive;
+}

@@ -25,6 +25,10 @@ body {
 section {
     padding: 50px 2%;
 }
+section a {
+    color: var(--cyan);
+    font-weight: bold;
+}
 h1, h2 {
     font-family: 'Amita', 'Brush Script MT', cursive;
 }

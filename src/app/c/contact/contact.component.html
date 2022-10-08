@@ -1,1 +1,15 @@
-<p>contact works!</p>
+<section id="contacto">
+    <h2>¿Nos ponemos en contacto?</h2>
+    <p>Puedes escribirme a <b>laplumaglauca@gmail.com</b> o a través del siguiente formulario:</p>
+    <form target="_self" action="https://formsubmit.co/5956b7b634ba6e5275bfaf47d77bf23f" method="POST">
+          <div class="form-group">
+            <input type="text" name="nombre" class="form-control" placeholder="Nombre" required>
+            <input type="email" name="email" class="form-control" placeholder="Email" required>
+          </div>
+          <div class="form-group">
+            <textarea placeholder="Mensaje" class="form-control" name="mensaje" rows="5" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-info">Enviar</button>
+          <input type="hidden" name="_next" value="http://localhost:4200/">
+        </form>
+</section>

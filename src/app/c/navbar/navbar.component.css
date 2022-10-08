@@ -8,7 +8,7 @@ nav img {
 }
 nav a {
     text-decoration: none;
-    color: black;
+    color: inherit;
 }
 nav ul {
     list-style-type: none;
