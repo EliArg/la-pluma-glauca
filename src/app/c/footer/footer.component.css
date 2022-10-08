@@ -1,0 +1,12 @@
+footer {
+    background-color: white;
+    font-family: 'Amita', 'Brush Script MT', cursive;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    padding: 1%;
+}
+footer a {
+    text-decoration: none;
+    color: inherit;
+}

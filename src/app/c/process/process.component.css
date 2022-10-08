@@ -1,0 +1,11 @@
+#proceso {
+    background-color: white;
+    text-align: center;
+}
+.pasos {
+    border: 2px solid var(--cyan);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+}

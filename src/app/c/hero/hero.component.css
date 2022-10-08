@@ -1,0 +1,14 @@
+#hero {
+    height: calc(100vh - 50px);
+    text-align: center;
+}
+#hero img {
+    height: 150px;
+    margin-top: 5%;
+    margin-bottom: 15px;
+}
+#hero h3 {
+    font-weight: bold;
+    max-width: 500px;
+    margin: 0 auto;
+}

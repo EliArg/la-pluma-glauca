@@ -1,0 +1,25 @@
+nav {
+    background-color: white;
+    padding: 5px 3%;
+    height: 50px;
+}
+nav img {
+    height: 30px;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+}
+nav li {
+    padding: 5px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border-left: 2px solid var(--cyan);
+    background-color: white;
+    display: block;
+    width: 6rem;
+}
